@@ -1,3 +1,6 @@
 [submodule "local"]
 	path = local
 	url = https://github.com/midpare/sagemaker_endpoint.git
+[submodule "RaspberryPi"]
+	path = RaspberryPi
+	url = https://github.com/midpare/find_lostItem_rp.git
