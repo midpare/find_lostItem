@@ -1,3 +1,0 @@
-[submodule "sagemaker_endpoint"]
-	path = sagemaker_endpoint
-	url = https://github.com/midpare/sagemaker_endpoint.git
